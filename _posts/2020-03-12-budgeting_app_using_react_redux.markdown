@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Budgeting app using React/Redux"
-date:       2020-03-12 15:38:20 +0000
+date:       2020-03-12 11:38:21 -0400
 permalink:  budgeting_app_using_react_redux
 ---
 

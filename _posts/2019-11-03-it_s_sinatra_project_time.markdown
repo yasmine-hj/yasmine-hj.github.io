@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "It’s Sinatra project time!"
-date:       2019-11-03 22:07:29 +0000
+date:       2019-11-03 17:07:30 -0500
 permalink:  it_s_sinatra_project_time
 ---
 
@@ -9,8 +9,7 @@ permalink:  it_s_sinatra_project_time
 
 This was my second project at Flatiron School and I’ve learnt so much from it. 
 
-**The project requirements were to:
-**
+The project requirements were to:
 
 * Build an MVC Sinatra application.
 *  Use ActiveRecord with Sinatra.

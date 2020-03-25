@@ -33,7 +33,7 @@ render()
 ```
 
 *  This is the only method you **must** define in a React.Component subclass (all others are optional)
-*  Handle![](http://)s the actual rendering of your component to the User Interface
+*  Handles the actual rendering of your component to the User Interface
 *  Can safely read from props and state here
 *  This function should be pure (returns the same result every time and does not modify the components state)
 

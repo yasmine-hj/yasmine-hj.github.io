@@ -24,7 +24,7 @@ This involves:
    
    *removing DOM nodes*
 
-## What the most Common Lifecycle Methods?
+## What are the most Common Lifecycle Methods?
 
 ### Mounting
 
@@ -32,7 +32,7 @@ This involves:
 render()
 ```
 
-*  This only method you **must** define in a React.Component subclass (all others are optional)
+*  This is the only method you **must** define in a React.Component subclass (all others are optional)
 *  Handle![](http://)s the actual rendering of your component to the User Interface
 *  Can safely read from props and state here
 *  This function should be pure (returns the same result every time and does not modify the components state)
@@ -71,7 +71,7 @@ componentWillUnmount()
 ``` 
 * This method is called when a component is being removed from the DOM
 * Invoked immediately before a component is unmounted 
-* This is the cleanup method and o nce a component is unmounted it is completely destroyed and can never be mounted again
+* This is the cleanup method and once a component is unmounted it is completely destroyed and can never be mounted again
 
 ![](https://miro.medium.com/max/2014/1*hSO--5BPT1K_YK6VqRy4vg.png)
 

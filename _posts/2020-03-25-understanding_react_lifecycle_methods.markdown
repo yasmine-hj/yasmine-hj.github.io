@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Understanding React Lifecycle Methods"
-date:       2020-03-25 11:34:04 +0000
+date:       2020-03-25 07:34:05 -0400
 permalink:  understanding_react_lifecycle_methods
 ---
 
@@ -12,15 +12,15 @@ React lifecycle methods can be thought of as the series of events that happen fr
 
 This involves:
 
-   1. **Mounting** 
+   **Mounting** 
    
    *adding nodes to the DOM*
    
-   2. **Updating**
+   **Updating**
    
    *updates to state in props*
 
-   3. **Unmounting** 
+   **Unmounting** 
    
    *removing DOM nodes*
 

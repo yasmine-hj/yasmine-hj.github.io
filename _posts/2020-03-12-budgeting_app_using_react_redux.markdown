@@ -12,6 +12,7 @@ Redux is a state management tool for JavaScript applications! It uses reducer fu
 
 My reducer function consisted of the following:
 
+
 ```export default function categoryReducer(state = {categories: []}, action) {
     switch (action.type) {
         case 'FETCH_CATEGORIES':
@@ -41,7 +42,9 @@ My reducer function consisted of the following:
 				
 	And I used three actions:
 	
-	1. Fetching Categories:
+	
+**	1. Fetching Categories:
+**
 
 ``` export function fetchCategories() {
     return (dispatch) => {
@@ -54,8 +57,10 @@ My reducer function consisted of the following:
     }
   }```
 	
-	2. Deleting Budgets:
 	
+**	2. Deleting Budgets:
+**	
+
 ```export const deleteBudget = (budgetId, categoryId) => {
     return (dispatch) => {
       return fetch(`http://localhost:3000/api/v1/categories/${categoryId}/budgets/${budgetId}`, {
@@ -66,9 +71,10 @@ My reducer function consisted of the following:
     }
   }```
 	
-	3. Adding Budgets:
+	
+**	3. Adding Budgets:
+**
 
-```export const addBudget = (budget, categoryId) => {
 
     return (dispatch) => {
       fetch(`http://localhost:3000/api/v1/categories/${categoryId}/budgets`, {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Thoughts on this journey"
-date:       2020-03-25 15:10:37 +0000
+date:       2020-03-25 11:10:37 -0400
 permalink:  thoughts_on_this_journey
 ---
 

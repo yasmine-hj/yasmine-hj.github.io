@@ -9,9 +9,9 @@ permalink:  thoughts_on_this_journey
 
 
 Learning to code has been a life changing experience for me. I really feel like I can do anything I set my mind to. 
-I learnt that I could be stuck on a problem for hours or days and find the issue was the smallest sillyest typo. I learnt that it's okay to need help, and that google can be your bestfriend sometimes. I learnt that I know more than I think I do, but I also don't know so much. I learnt that there's always so much to learn and the learning never ends, and I learnt that there's so much left to build and create. I learnt about the importance in patience when learning something new. 
+I learnt that I could be stuck on a problem for hours or days and find the issue was the smallest silliest typo. I learnt that it's okay to need help, and that google can be your best friend sometimes. I learnt that I know more than I think I do, but I also don't know so much. I learnt that there's always so much to learn and the learning never ends, and I learnt that there's so much left to build and create. I learnt about the importance of patience when learning something new. 
 
-Most importantly, I learnt how to think in a way I never use to think in before.
+Most importantly, I learnt how to think in a way I never used to think in before.
 
 I've now completed my course at Flatiron School but the journey has not ended, l am grateful to be on this journey and I'm excited to keep on learning!
 
